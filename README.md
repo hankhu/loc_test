@@ -1,7 +1,7 @@
 # pull repos for loc test code
 ```sh
-git clone https://github.com/userver-framework/userver
-git clone https://github.com/mitsuba-renderer/nanogui
+git clone git@github.com/userver-framework/userver.git
+git clone git@github.com/mitsuba-renderer/nanogui.git
 ```
 
 # run loc test
